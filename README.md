@@ -14,3 +14,6 @@ Author Twitter: [egarme](https://twitter.com/egarme)<br/>
 * Linux sshd conf
 * Linux vsftpd conf
 * Linux vsftpd log
+
+#### Passive Scanner
+* Creds Disclosed
