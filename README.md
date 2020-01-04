@@ -17,3 +17,6 @@ Author Twitter: [egarme](https://twitter.com/egarme)<br/>
 
 #### Passive Scanner
 * Creds Disclosed
+* JWT-Request
+* JWT-Response
+* GraphqlPath
