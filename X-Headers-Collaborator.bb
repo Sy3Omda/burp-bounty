@@ -1,6 +1,6 @@
 [
   {
-    "ProfileName": "X-Headers-Collaborator-combined",
+    "ProfileName": "X-Headers-Collaborator",
     "Name": "",
     "Enabled": true,
     "Scanner": 1,
@@ -44,10 +44,10 @@
     "payloadPosition": 1,
     "payloadsFile": "",
     "grepsFile": "",
-    "IssueName": "X-Headers-Collaborator-combined",
+    "IssueName": "X-Headers-Collaborator",
     "IssueSeverity": "Medium",
     "IssueConfidence": "Firm",
-    "IssueDetail": "X-Headers-Collaborator-combined",
+    "IssueDetail": "X-Headers-Collaborator",
     "RemediationDetail": "",
     "IssueBackground": "",
     "RemediationBackground": "",

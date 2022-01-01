@@ -20,3 +20,4 @@ Graphql
 Cloud
 All
 Mobile
+log4shell

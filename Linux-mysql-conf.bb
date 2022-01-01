@@ -83,7 +83,8 @@
       "true,,MySQL database server"
     ],
     "Tags": [
-      "All"
+      "All",
+      "PathTraversal"
     ],
     "PayloadResponse": false,
     "NotResponse": false,
@@ -129,6 +130,7 @@
     ],
     "VariationAttributes": [],
     "InsertionPointType": [
+      32,
       0,
       37
     ],
