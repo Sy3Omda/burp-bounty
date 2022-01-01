@@ -2,7 +2,7 @@
   {
     "ProfileName": "Linux-Path",
     "Name": "",
-    "Enabled": false,
+    "Enabled": true,
     "Scanner": 1,
     "Author": "@Sy3Omda",
     "Payloads": [
@@ -80,7 +80,7 @@
     "UrlEncode": false,
     "CharsToUrlEncode": "",
     "Grep": [
-      "true,,root:x"
+      "true,,*root:x*"
     ],
     "Tags": [
       "PathTraversal",
@@ -106,7 +106,7 @@
     "urlextension": "",
     "isurlextension": false,
     "NegativeUrlExtension": false,
-    "MatchType": 1,
+    "MatchType": 2,
     "Scope": 0,
     "RedirType": 0,
     "MaxRedir": 0,
@@ -130,7 +130,8 @@
     ],
     "VariationAttributes": [],
     "InsertionPointType": [
-      0
+      0,
+      37
     ],
     "Scanas": false,
     "Scantype": 0,

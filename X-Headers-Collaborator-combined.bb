@@ -6,7 +6,8 @@
     "Scanner": 1,
     "Author": "@Sy3Omda",
     "Payloads": [
-      "true,http://{BC}"
+      "true,http://{BC}",
+      "true,{BC}"
     ],
     "Encoder": [],
     "UrlEncode": false,
@@ -36,7 +37,7 @@
     "urlextension": "",
     "isurlextension": false,
     "NegativeUrlExtension": false,
-    "MatchType": 0,
+    "MatchType": 1,
     "Scope": 0,
     "RedirType": 0,
     "MaxRedir": 0,
